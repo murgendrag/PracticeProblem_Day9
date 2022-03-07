@@ -1,9 +1,9 @@
 ﻿
 namespace Day8_PracticeProblems
 {
-     class Program
+    class Program
     {
-         public static void Main(string[] args)
+        public static void Main(string[] args)
         //{
         //    EmployeeAttendance Employee1 = new EmployeeAttendance();
         //    Employee.Employeeattcheck();
@@ -24,9 +24,13 @@ namespace Day8_PracticeProblems
         //    MonthlyWage Employee5 = new MonthlyWage();
         //    Employee5.calmonthlywage();
         //}
+        //{
+        //    //Employeemonthly100hours Employee6 = new Employeemonthly100hours();
+        //    //Employee6.calmonthlywage();
+        //}
         {
-            Employeemonthly100hours Employee6 = new Employeemonthly100hours();
-            Employee6.calmonthlywage();
+            lineComparison1 linelength1 = new lineComparison1();
+            linelength1.calculatelength();
         }
     }
 }
