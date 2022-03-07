@@ -28,9 +28,13 @@ namespace Day8_PracticeProblems
         //    //Employeemonthly100hours Employee6 = new Employeemonthly100hours();
         //    //Employee6.calmonthlywage();
         //}
+        //{
+        //    lineComparison1 linelength1 = new lineComparison1();
+        //    linelength1.calculatelength();
+        //}
         {
-            lineComparison1 linelength1 = new lineComparison1();
-            linelength1.calculatelength();
+            lineComparison2 linelength2 = new lineComparison2();
+            linelength2.comparelines(); 
         }
     }
 }
